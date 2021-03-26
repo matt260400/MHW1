@@ -90,6 +90,8 @@ header h1{
     font-size: 4em;
     text-align: center;
     position: relative;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 @media (max-width: 500px) {
@@ -175,8 +177,7 @@ section{
 
 #artisti div{
     box-shadow: 10px 10px 60px 5px black, -10px -10px 60px 5px black;
-    margin: 50px;
-    margin-top: 100px;
+    margin: 100px 50px;
     border-radius: 50px;
     font-size: 1.4em;
     text-align: center;
